@@ -1,0 +1,2 @@
+prix,ville,type,chambres,salles_de_bains
+350000,Toronto,Condo,2,2
